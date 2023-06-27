@@ -1,0 +1,346 @@
+fileFormatVersion: 2
+guid: 8859ff40b8213c24f836b47a1bbf5f24
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: conquest_block-1_basic_refined-1_stone-2_granite-granite_brick
+    second: {fileID: 2100000, guid: 523f694a33bd8204382e13d310c12da9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: conquest_block-1_basic_refined-1_stone-3_limestone-large_li
+    second: {fileID: 2100000, guid: 33b3f0bf5b483b849acdcffed7fc17ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: conquest_block-1_basic_refined-1_stone-3_limestone-large_limest
+    second: {fileID: 2100000, guid: 78cda8aa8af71d8479b93f407fadb5e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: conquest_block-1_basic_refined-1_stone-3_limestone-simple_limes
+    second: {fileID: 2100000, guid: 95ca9e299e333ff4f937fe421648b881, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: conquest_block-1_basic_refined-1_stone-3_limestone-snow_cov
+    second: {fileID: 2100000, guid: 78921440b46f80c4c813db02d554c402, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: conquest_block-1_basic_refined-1_stone-3_limestone-snow_covered
+    second: {fileID: 2100000, guid: 78ddc151e3adf104d8ba6e66712e2ddf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: conquest_block-1_basic_refined-1_stone-graywacke_mortar_wall
+    second: {fileID: 2100000, guid: 447c266081e90c641af702e2d564c203, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: conquest_block-1_basic_refined-1_stone-large_andesite_brick
+    second: {fileID: 2100000, guid: b399e90e27f7cbe4db0df784dd40fb68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: conquest_block-1_basic_refined-3_wood-ash_wood_beam
+    second: {fileID: 2100000, guid: 68117c5d8cf695f4aa5c40366c9a4c23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: conquest_block-1_basic_refined-3_wood-beam-beam_texture
+    second: {fileID: 2100000, guid: 52850a6a225c49e46a63655622501cfb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: conquest_block-1_basic_refined-3_wood-beam-randomtopsides
+    second: {fileID: 2100000, guid: c2d3276494153c54c807b8218133526b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: conquest_block-1_basic_refined-3_wood-dark_oak_wood_beam_wall
+    second: {fileID: 2100000, guid: c85500c2e60067e43961effa34887c97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: conquest_block-1_basic_refined-3_wood-dark_oak_wood_beam_wall_t
+    second: {fileID: 2100000, guid: d582d2f3e16ba1645bfed0f8d294297d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: conquest_block-1_basic_refined-3_wood-oak-narrow_oak_wood_plank
+    second: {fileID: 2100000, guid: d238312aa6794d241b7375579a5a174d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: conquest_block-1_basic_refined-3_wood-oak-oak_platform
+    second: {fileID: 2100000, guid: 6d506b2e76438f5499c9e1c5c58d4c71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: conquest_block-1_basic_refined-3_wood-oak-oak_platform_top
+    second: {fileID: 2100000, guid: d717bffc930b7884a824fe8746c31b16, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: conquest_block-1_basic_refined-3_wood-oak-vertical_narrow_oak_w
+    second: {fileID: 2100000, guid: 7ee153fadc5375c40b02596e6ffa43d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: conquest_block-1_basic_refined-3_wood-oak-wall_of_oak_logs
+    second: {fileID: 2100000, guid: 341772ae3f2fcc2428622dee77be9d9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: conquest_block-1_basic_refined-3_wood-oak-wall_of_oak_logs_topb
+    second: {fileID: 2100000, guid: de6d0aab27776ff4e94ed1b7a52f9670, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: conquest_block-1_basic_refined-3_wood-red_acacia_wood_planks
+    second: {fileID: 2100000, guid: acca9b658d989bf439487b1d697f8c91, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: conquest_block-1_basic_refined-3_wood-red_acacia_wood_planks_to
+    second: {fileID: 2100000, guid: 7ba49ff9464b9d64081ed0d249350252, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: conquest_block-1_basic_refined-3_wood-spruce-rustic_spruce_wood
+    second: {fileID: 2100000, guid: 09a10f7e7bfa1f944a04b430ea67c836, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: conquest_block-1_basic_refined-3_wood-spruce-spruce_paneling
+    second: {fileID: 2100000, guid: 5ae599d29fb9f2a48a1af450f1020352, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: conquest_block-1_basic_refined-3_wood-spruce-spruce_platform
+    second: {fileID: 2100000, guid: 3862ec796cf0bc94bb6fea35401fc207, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: conquest_block-1_basic_refined-3_wood-spruce-spruce_platform_to
+    second: {fileID: 2100000, guid: 27c930914d68f3045b313870098499ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: conquest_block-1_basic_refined-3_wood-spruce-wall_of_old_sp
+    second: {fileID: 2100000, guid: 4c509d464c42c13428ac7d48007ceca5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: conquest_block-1_basic_refined-3_wood-spruce-wall_of_old_spruce
+    second: {fileID: 2100000, guid: e74c40be9cc87974e8a0e51cf05068f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: conquest_block-1_basic_refined-3_wood-spruce-wall_of_spruce_log
+    second: {fileID: 2100000, guid: 7ff58c25304d5a3459b4ff2e9320cfc9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: conquest_block-1_basic_refined-3_wood-tarred_spruce_wood_beam
+    second: {fileID: 2100000, guid: 9a9e75383317ce3488e45cc2a53993c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: conquest_block-2_advanced_refined-6_glass-lattice_window_panel
+    second: {fileID: 2100000, guid: 145817b9a33a64b479084c297e7d3f49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: conquest_block-3_decoration-2_metal-brass_door_knob
+    second: {fileID: 2100000, guid: fa12c7d8d9d0ce24ba872ac6a539c68b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: conquest_block-3_decoration-2_metal-golden_door_knocker
+    second: {fileID: 2100000, guid: d901f6d480daaaa44b2349b813939b65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: conquest_block-3_decoration-2_metal-golden_door_knocker_ring
+    second: {fileID: 2100000, guid: 7fb27cb20f3f95448b0be925c7f0f4f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: conquest_block-3_decoration-4_cloth-small_red_paper_lantern
+    second: {fileID: 2100000, guid: fdb0ba7dc7011a04385e93ab17e4c2c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: conquest_block-3_decoration-4_cloth-small_red_paper_lantern_top
+    second: {fileID: 2100000, guid: cd138aa45290f09418c9bc14cea05e85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: conquest_block-8_topography-1_stone-icy_limestone
+    second: {fileID: 2100000, guid: e35c7b0a335055346828eb903ecbc321, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: conquest_block-8_topography-1_stone-snow_covered_icy_limestone
+    second: {fileID: 2100000, guid: e1d1c7eb038a90343b7d4c83dc4e0d07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: conquest_block-8_topography-1_stone-snowy_granite
+    second: {fileID: 2100000, guid: 191f3ad8d82f1d3488f135baf3640d32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: conquest_block-8_topography-1_stone-weathered_granite
+    second: {fileID: 2100000, guid: a3bb8ed2ae4d3db419ce7aa43cb112e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jmc2obj_banner-banner_base14-mc0
+    second: {fileID: 2100000, guid: 458518c4191a92a4e9e2fb6d3c74f1c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-dark_oak_planks
+    second: {fileID: 2100000, guid: a6fa26fc55b212b488207895b6f82bba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-granite
+    second: {fileID: 2100000, guid: 3fd9dd0fec4b50c458d8bf0b9e1f54b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-oak_log_1
+    second: {fileID: 2100000, guid: c4654a684c890834984710d13cb78a51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-snow
+    second: {fileID: 2100000, guid: e75ac55e6ba99af4c8f88314f16d02d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-spruce_planks
+    second: {fileID: 2100000, guid: a7514c026e3620b4abc262f22df0a1fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-stone_bricks
+    second: {fileID: 2100000, guid: 798bf5cb7deeb874f9d40dd28a1294f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-stripped_dark_oak_log
+    second: {fileID: 2100000, guid: 71ff163ccb9e93046960e09d3b8f9414, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-stripped_dark_oak_log_top
+    second: {fileID: 2100000, guid: fd05713be4c560b4f9c26f8aa8ad8e9f, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

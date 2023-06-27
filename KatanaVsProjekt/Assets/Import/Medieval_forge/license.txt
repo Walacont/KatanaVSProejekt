@@ -1,0 +1,11 @@
+Model Information:
+* title:	Medieval forge
+* source:	https://sketchfab.com/3d-models/medieval-forge-f798514d4054444384bc03521f4bd141
+* author:	Arte Hexe (https://sketchfab.com/illusive_skarwing)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Medieval forge" (https://sketchfab.com/3d-models/medieval-forge-f798514d4054444384bc03521f4bd141) by Arte Hexe (https://sketchfab.com/illusive_skarwing) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
