@@ -1,9 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 <<<<<<<< HEAD:KatanaVsProjekt/Assets/FBX/uploads_files_2279663_HoiAnHouse_M2.fbx.meta
 guid: 3e709211ccf0db74fb31a9beb77578ff
 ========
 guid: b42a25a9a7442d84ca03fe44681561ab
 >>>>>>>> parent of c14eb5e (Tisch+Blasebalg+Stahl+Schaufel):KatanaVsProjekt/Assets/FBX/ForgeHouse.fbx.meta
+=======
+guid: 3e709211ccf0db74fb31a9beb77578ff
+>>>>>>> parent of c14eb5e (Tisch+Blasebalg+Stahl+Schaufel)
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []

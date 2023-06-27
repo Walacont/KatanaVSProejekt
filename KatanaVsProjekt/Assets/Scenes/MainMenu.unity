@@ -7186,6 +7186,9 @@ MonoBehaviour:
             m_BoolArgument: 0
           m_CallState: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of c14eb5e (Tisch+Blasebalg+Stahl+Schaufel)
+=======
 >>>>>>> parent of c14eb5e (Tisch+Blasebalg+Stahl+Schaufel)
 =======
 >>>>>>> parent of c14eb5e (Tisch+Blasebalg+Stahl+Schaufel)
@@ -7330,7 +7333,12 @@ Transform:
   m_Children:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   - {fileID: 1043187212}
+=======
+  - {fileID: 144325886}
+  - {fileID: 1966627663}
+>>>>>>> parent of c14eb5e (Tisch+Blasebalg+Stahl+Schaufel)
 =======
   - {fileID: 144325886}
   - {fileID: 1966627663}
@@ -7478,7 +7486,10 @@ RectTransform:
   m_Pivot: {x: 0, y: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of c14eb5e (Tisch+Blasebalg+Stahl+Schaufel)
 =======
 >>>>>>> parent of c14eb5e (Tisch+Blasebalg+Stahl+Schaufel)
 --- !u!1001 &1966627662
