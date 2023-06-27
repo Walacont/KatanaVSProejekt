@@ -7185,6 +7185,9 @@ MonoBehaviour:
             m_StringArgument: 
             m_BoolArgument: 0
           m_CallState: 2
+<<<<<<< HEAD
+>>>>>>> parent of c14eb5e (Tisch+Blasebalg+Stahl+Schaufel)
+=======
 >>>>>>> parent of c14eb5e (Tisch+Blasebalg+Stahl+Schaufel)
 --- !u!1 &1564456067
 GameObject:
@@ -7326,7 +7329,12 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
 <<<<<<< HEAD
+<<<<<<< HEAD
   - {fileID: 1043187212}
+=======
+  - {fileID: 144325886}
+  - {fileID: 1966627663}
+>>>>>>> parent of c14eb5e (Tisch+Blasebalg+Stahl+Schaufel)
 =======
   - {fileID: 144325886}
   - {fileID: 1966627663}
@@ -7469,7 +7477,10 @@ RectTransform:
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of c14eb5e (Tisch+Blasebalg+Stahl+Schaufel)
 --- !u!1001 &1966627662
 PrefabInstance:
   m_ObjectHideFlags: 0
