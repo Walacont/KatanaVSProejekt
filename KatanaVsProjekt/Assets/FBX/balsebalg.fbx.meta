@@ -1,9 +1,14 @@
 fileFormatVersion: 2
-guid: b42a25a9a7442d84ca03fe44681561ab
+guid: 29fc925a4b3f50046942f20d73c77f08
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AIR_lambert
+    second: {fileID: 2100000, guid: 3d913ba657735ef41a2e54bba0a6d2d5, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
