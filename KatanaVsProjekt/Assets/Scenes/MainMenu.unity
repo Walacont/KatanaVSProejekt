@@ -2167,6 +2167,7 @@ CanvasRenderer:
   m_CullTransparentMesh: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &1367453026
 GameObject:
   m_ObjectHideFlags: 0
@@ -7001,6 +7002,8 @@ ParticleSystem:
 >>>>>>> parent of 8c5d55a (Feuer Animation, Haus Backface Culling ausgeschaltet)
 =======
 >>>>>>> parent of 8c5d55a (Feuer Animation, Haus Backface Culling ausgeschaltet)
+=======
+>>>>>>> parent of 8c5d55a (Feuer Animation, Haus Backface Culling ausgeschaltet)
 --- !u!1 &1429150416
 GameObject:
   m_ObjectHideFlags: 0
@@ -7202,6 +7205,7 @@ AudioSource:
     m_RotationOrder: 4
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &1477603521
 GameObject:
   m_ObjectHideFlags: 0
@@ -7260,6 +7264,8 @@ MonoBehaviour:
     OnExecution:
       m_PersistentCalls:
         m_Calls: []
+=======
+>>>>>>> parent of 8c5d55a (Feuer Animation, Haus Backface Culling ausgeschaltet)
 =======
 >>>>>>> parent of 8c5d55a (Feuer Animation, Haus Backface Culling ausgeschaltet)
 =======
@@ -7405,12 +7411,16 @@ Transform:
   m_Children:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   - {fileID: 543450651580732737}
   - {fileID: 543450651766897829}
   - {fileID: 543450652182150962}
   - {fileID: 543450653615491314}
   - {fileID: 6615324978108936554}
   - {fileID: 327501467}
+=======
+  - {fileID: 1043187212}
+>>>>>>> parent of 8c5d55a (Feuer Animation, Haus Backface Culling ausgeschaltet)
 =======
   - {fileID: 1043187212}
 >>>>>>> parent of 8c5d55a (Feuer Animation, Haus Backface Culling ausgeschaltet)
@@ -7556,6 +7566,7 @@ RectTransform:
   m_Pivot: {x: 0, y: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &2076997326
 GameObject:
   m_ObjectHideFlags: 0
@@ -7588,6 +7599,8 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> parent of 8c5d55a (Feuer Animation, Haus Backface Culling ausgeschaltet)
 =======
 >>>>>>> parent of 8c5d55a (Feuer Animation, Haus Backface Culling ausgeschaltet)
 =======
