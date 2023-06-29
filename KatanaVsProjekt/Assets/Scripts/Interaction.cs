@@ -1,12 +1,17 @@
-using UnityEngine;
+using System;
 using UnityEngine.Events;
 
-[System.Serializable]
-public struct Interaction
+[Serializable]
+public class Interaction
 {
-    public GameObject GameObject;
+    public Interactable Interactable;
     public string Instruction;
     public string HelpMsg;
     public string ErrorMsg;
-    public UnityEvent OnExecution;
+    public float Duration;
+    public float DurationExtra;
+    public UnityEvent OnStart;
+    public UnityEvent OnEnd;
+    public UnityEvent OnExtra;
+    public bool HelpCounted { get; set; }
 }
